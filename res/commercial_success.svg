@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.3 847.7" style="enable-background:new 0 0 841.3 847.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A5ABB6;}
+	.st1{enable-background:new    ;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:8px;}
+	.st4{fill:#F5F5F5;stroke:#666666;stroke-width:2;}
+	.st5{font-size:10px;}
+	.st6{fill:#FFE6CC;stroke:#D79B00;stroke-width:2;}
+	.st7{fill:#D5E8D4;stroke:#82B366;stroke-width:2;}
+	.st8{fill:#DAE8FC;stroke:#6C8EBF;stroke-width:2;}
+	.st9{fill:#FFF2CC;stroke:#D6B656;stroke-width:2;}
+	.st10{fill:#E1D5E7;stroke:#9673A6;stroke-width:2;}
+</style>
+<title>Neo4j Graph Visualization</title>
+<desc>Created using Neo4j (http://www.neo4j.com/)</desc>
+<g>
+	<g transform="translate(175.83303287940987 374.74845876293944) rotate(372.6913422309731)">
+		<path class="st0" d="M245.1,381.5h5v-1h-5V381.5z M250.1,381.5h5v3l7-3.5l-7-3.5v3h-5V381.5z"/>
+	</g>
+	<g transform="translate(175.83303287940987 374.74845876293944) rotate(257.49898362479746)">
+		<path class="st0" d="M-402.8,30.7h2v-1h-2V30.7z M-361.9,30.7h2v3l7-3.5l-7-3.5v3h-2V30.7z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -364.8875 27.1751)" class="st1 st2 st3">EXAMI…</text>
+	</g>
+	<g transform="translate(150.95965673448688 262.56132745453783) rotate(302.74526299890715)">
+		<path class="st0" d="M-252.5,330.9h8.4v-1h-8.4V330.9z M-244.2,330.9h8.4v3l7-3.5l-7-3.5v3h-8.4V330.9z"/>
+	</g>
+	<g transform="translate(198.98074266174746 187.89061972774792) rotate(320.5448919523915)">
+		<path class="st0" d="M-137.9,402.2l51.2,0v-1l-51.2,0V402.2z M-45.7,402.2l51.2,0l0,3l7-3.5l-7-3.5l0,3l-51.2,0V402.2z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -83.6877 404.6828)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(365.30185486719324 51.00480140772119) rotate(209.57219936198567)">
+		<path class="st0" d="M-281.6-302.4h4.9v-1h-4.9V-302.4z M-276.7-302.4h4.9v3l7-3.5l-7-3.5v3h-4.9V-302.4z"/>
+	</g>
+	<g transform="translate(175.83303287940987 374.74845876293944) rotate(204.37002725501725)">
+		<path class="st0" d="M-252.8-329.6h5.1v-1h-5.1V-329.6z M-247.7-329.6h5.1v3l7-3.5l-7-3.5v3h-5.1V-329.6z"/>
+	</g>
+	<g transform="translate(198.98074266174746 187.89061972774792) rotate(274.86607252178004)">
+		<path class="st0" d="M-373.9,159.2h8.4v-1h-8.4V159.2z M-324.6,159.2h8.4v3l7-3.5l-7-3.5v3h-8.4V159.2z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -362.5258 161.731)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(209.9906271795607 58.56609858078741) rotate(330.3285794917889)">
+		<path class="st0" d="M-67.2,425.3h1.4v-1h-1.4V425.3z M-43.7,425.3l1.4,0l0,3l7-3.5l-7-3.5v3h-1.4V425.3z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -62.7495 427.798)" class="st1 st2 st3">IN…</text>
+	</g>
+	<g transform="translate(175.83303287940987 374.74845876293944) rotate(319.59178087173973)">
+		<path class="st0" d="M-144.6,399.3h2.2v-1h-2.2V399.3z M-95,399.3h2.2v3l7-3.5l-7-3.5v3H-95V399.3z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -139.3481 401.7925)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(270.08644855528973 294.50919764258913) rotate(271.66567424004484)">
+		<path class="st0" d="M-382.2,136.3h7.8v-1h-7.8V136.3z M-374.3,136.3l7.8,0v3l7-3.5l-7-3.5v3l-7.8,0V136.3z"/>
+	</g>
+	<g transform="translate(272.6349369466988 206.87111845721472) rotate(300.73267630768885)">
+		<path class="st0" d="M-264,320.6h34.2v-1H-264V320.6z M-188.8,320.6h34.2v3l7-3.5l-7-3.5v3h-34.2V320.6z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -226.7853 323.1487)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(272.6349369466988 206.87111845721472) rotate(247.10071578812915)">
+		<path class="st0" d="M-401.1-48.4l24,0v-1l-24,0V-48.4z M-336.1-48.4l24,0v3l7-3.5l-7-3.5v3l-24,0V-48.4z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -339.1093 -51.8856)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(470.4614506696473 351.47795994061835) rotate(328.20725870659885)">
+		<path class="st0" d="M-82.8,421.3h4.5v-1h-4.5V421.3z M-78.3,421.3h4.5v3l7-3.5l-7-3.5v3h-4.5V421.3z"/>
+	</g>
+	<g transform="translate(470.4614506696473 351.47795994061835) rotate(289.4887372851117)">
+		<path class="st0" d="M-320.7,256.7l54.7,0v-1l-54.7,0V256.7z M-218.7,256.7l54.7,0v3l7-3.5l-7-3.5v3l-54.7,0V256.7z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -263.0132 259.1958)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(546.7674612033527 135.86174525462798) rotate(199.72200665304211)">
+		<path class="st0" d="M-225.1-351.7h8.3v-1h-8.3V-351.7z M-216.8-351.7h8.3v3l7-3.5l-7-3.5v3h-8.3V-351.7z"/>
+	</g>
+	<g transform="translate(463.3104236024121 105.9436302562557) rotate(190.59344852421236)">
+		<path class="st0" d="M-166-388.1h72.4v-1H-166V-388.1z M-52.7-388.1h72.4v3l7-3.5l-7-3.5v3h-72.4V-388.1z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -55.6608 -391.5699)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(470.4614506696473 351.47795994061835) rotate(271.5230264399596)">
+		<path class="st0" d="M-382.5,135.3h1.3v-1h-1.3V135.3z M-333.9,135.3h1.3v3l7-3.5l-7-3.5v3h-1.3V135.3z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -378.2451 137.7598)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(473.7003288708023 229.66107227195948) rotate(226.87302938019076)">
+		<path class="st0" d="M-357.4-195.3h6v-1h-6V-195.3z M-351.4-195.3h6v3l7-3.5l-7-3.5v3h-6V-195.3z"/>
+	</g>
+	<g transform="translate(416.2414976629228 168.31713145392797) rotate(208.01851343043535)">
+		<path class="st0" d="M-273.3-310.8h60.3v-1h-60.3V-310.8z M-172-310.8h60.3v3l7-3.5l-7-3.5v3H-172V-310.8z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -174.9513 -314.2957)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(470.4614506696473 351.47795994061835) rotate(216.56755970939372)">
+		<path class="st0" d="M-316.1-261.9h1.3v-1h-1.3V-261.9z M-276-261.9h1.3v3l7-3.5l-7-3.5v3h-1.3V-261.9z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -278.9726 -265.3852)" class="st1 st2 st3">EXAMI…</text>
+	</g>
+	<g transform="translate(379.3680564965807 283.90602449738174) rotate(249.64982630370514)">
+		<path class="st0" d="M-402.8-29.1h8.9v-1h-8.9V-29.1z M-394-29.1h8.9v3l7-3.5l-7-3.5v3h-8.9V-29.1z"/>
+	</g>
+	<g transform="translate(348.1645427311746 199.7784471861895) rotate(225.6230890695785)">
+		<path class="st0" d="M-353.1-203.7l42.3,0v-1l-42.3,0V-203.7z M-269.8-203.7l42.3,0v3l7-3.5l-7-3.5v3l-42.3,0V-203.7z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -272.8148 -207.2437)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(470.4614506696473 351.47795994061835) rotate(246.93358975439696)">
+		<path class="st0" d="M-400.9-49.6l270.8,0v-1l-270.8,0V-49.6z M-82.8-49.6l270.8,0v3l7-3.5l-7-3.5l0,3l-270.8,0V-49.6z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -85.8022 -53.1499)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(211.50687522651575 -256.62015792648447) rotate(435.17606431130554)">
+		<path class="st0" d="M468.7-12h0.3v-1h-0.3V-12z M489.2-12l0.3,0v3l7-3.5l-7-3.5v3h-0.3V-12z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 471.9981 -9.5079)" class="st1 st2 st3">O…</text>
+	</g>
+	<g transform="translate(235.277282052015 -166.8047205917404) rotate(456.4018245498013)">
+		<path class="st0" d="M433.3-178.5l0.3,1c19-5.1,38.3-8.4,57.9-9.8l-0.1-1C471.8-186.8,452.3-183.6,433.3-178.5z M532.4-188.6
+			l-0.1,1c19.6,1.1,39,4.1,58.1,8.9l-0.7,2.9l7.6-1.7l-5.9-5.1l-0.7,2.9C571.5-184.5,552-187.5,532.4-188.6"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 529.3782 -191.6185)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(235.277282052015 -166.8047205917404) rotate(456.4018245498013)">
+		<path class="st0" d="M433.3-160.7l0.3-1c19,5.1,38.3,8.4,57.9,9.8l-0.1,1C471.8-152.3,452.3-155.6,433.3-160.7z M532.4-150.5
+			l-0.1-1c19.6-1.1,39-4.1,58.1-8.9l-0.7-2.9l7.6,1.7l-5.9,5.1l-0.7-2.9C571.5-154.7,552-151.7,532.4-150.5"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 529.3786 -153.5157)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(235.277282052015 -166.8047205917404) rotate(417.34544925056815)">
+		<path class="st0" d="M451.5,122.1h1.1v-1h-1.1V122.1z M491.3,122.1h1.1v3l7-3.5l-7-3.5v3h-1.1V122.1z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 455.596 124.6456)" class="st1 st2 st3">IMPAC…</text>
+	</g>
+	<g transform="translate(296.1751411533615 -71.78083858195572) rotate(451.4154307496536)">
+		<path class="st0" d="M447.8-133.5h5.2v-1h-5.2V-133.5z M453-133.5l5.2,0v3l7-3.5l-7-3.5v3l-5.2,0V-133.5z"/>
+	</g>
+	<g transform="translate(681.0689060746064 91.58304485484172) rotate(470.471872799148)">
+		<path class="st0" d="M381.3-261.7h1v-1h-1V-261.7z M382.2-261.7h1v3l7-3.5l-7-3.5v3h-1V-261.7z"/>
+	</g>
+	<g transform="translate(681.0689060746064 91.58304485484172) rotate(232.4458484378722)">
+		<path class="st0" d="M-374.6-156.5h39.2v-1h-39.2V-156.5z M-288.1-156.5l39.2,0v3l7-3.5l-7-3.5v3l-39.2,0V-156.5z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -291.1053 -159.991)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(560.5843729210351 -65.1285599930726) rotate(523.807074923602)">
+		<path class="st0" d="M30.4-435.8h8v-1h-8V-435.8z M38.4-435.8h8v3l7-3.5l-7-3.5v3h-8V-435.8z"/>
+	</g>
+	<g transform="translate(476.1701705993535 -40.61527005592655) rotate(519.5640637952662)">
+		<path class="st0" d="M62.7-434.8l85.5,0v-1l-85.5,0V-434.8z M189.2-434.8h85.5v3l7-3.5l-7-3.5v3h-85.5V-434.8z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 186.2151 -438.2888)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(681.0689060746064 91.58304485484172) rotate(270.0124689544224)">
+		<path class="st0" d="M-385.9,124.3h1.7v-1h-1.7V124.3z M-384.3,124.3h1.7v3l7-3.5l-7-3.5v3h-1.7V124.3z"/>
+	</g>
+	<g transform="translate(681.0689060746064 91.58304485484172) rotate(475.0612470260597)">
+		<path class="st0" d="M359.2-288.8l9.5,0l0-1l-9.5,0V-288.8z M426.2-288.8h9.5v3l7-3.5l-7-3.5v3h-9.5V-288.8z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 423.1933 -292.2833)" class="st1 st2 st3">WRITTEN_BY</text>
+	</g>
+	<g transform="translate(681.0689060746064 91.58304485484172) rotate(206.14162859017182)">
+		<path class="st0" d="M-262.9-320.6h1.6v-1h-1.6V-320.6z M-213.9-320.6h1.6v3l7-3.5l-7-3.5v3h-1.6V-320.6z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -216.9475 -324.1425)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(571.061094521365 37.59162971983898) rotate(182.56245217967557)">
+		<path class="st0" d="M-109.8-412h9v-1h-9V-412z M-100.8-412h9l0,3l7-3.5l-7-3.5v3h-9V-412z"/>
+	</g>
+	<g transform="translate(481.19488943881686 33.56984121500709) rotate(534.7340606384166)">
+		<path class="st0" d="M-53.5-419.1l0.3-1c26.4,7.1,53.4,11.4,80.7,13l-0.1,1C0.1-407.7-27-412-53.5-419.1z M68.4-405.8l0-1
+			c27.3-1.2,54.4-5.2,80.8-11.9l-0.7-2.9l7.6,1.7l-5.9,5.1l-0.7-2.9C122.9-411.1,95.7-407.1,68.4-405.8"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 65.373 -408.948)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(481.19488943881686 33.56984121500709) rotate(534.7340606384166)">
+		<path class="st0" d="M-53.5-436.9l0.3,1c26.4-7.1,53.4-11.4,80.7-13l-0.1-1C0.1-448.4-27-444-53.5-436.9z M68.4-450.2l0,1
+			c27.3,1.2,54.4,5.2,80.8,11.9l-0.7,2.9l7.6-1.7l-5.9-5.1l-0.7,2.9C122.9-445,95.7-449,68.4-450.2"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 65.3731 -453.101)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(617.301350276793 -204.45992996585483) rotate(427.5883462239007)">
+		<path class="st0" d="M466.5,45.7l9,0v-1l-9,0V45.7z M533.1,45.7l9,0v3l7-3.5l-7-3.5v3l-9,0V45.7z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 478.5212 48.1937)" class="st1 st2 st3">WRITTEN_BY</text>
+	</g>
+	<g transform="translate(617.301350276793 -204.45992996585483) rotate(517.2489045446575)">
+		<path class="st0" d="M80.3-433.2h1v-1h-1V-433.2z M117.9-433.2h1v3l7-3.5l-7-3.5l0,3h-1V-433.2z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 114.9009 -436.7128)" class="st1 st2 st3">EXAM…</text>
+	</g>
+	<g transform="translate(515.3046193643431 -161.68685799396906) rotate(504.21677620935105)">
+		<path class="st0" d="M176.8-411.3h1.9v-1h-1.9V-411.3z M199-411.3h1.9v3l7-3.5l-7-3.5v3H199V-411.3z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 195.9632 -414.7718)" class="st1 st2 st3">O…</text>
+	</g>
+	<g transform="translate(437.39789022148017 -105.53342209195603) rotate(495.42689988368386)">
+		<path class="st0" d="M238.1-384.4h1.8v-1h-1.8V-384.4z M272.8-384.4h1.8v3l7-3.5l-7-3.5v3h-1.8V-384.4z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 269.8396 -387.8796)" class="st1 st2 st3">IMPA…</text>
+	</g>
+	<g transform="translate(360.0439036576273 -29.32363100830061) rotate(508.7780412171144)">
+		<path class="st0" d="M143.6-421.4h2.5v-1h-2.5V-421.4z M146.2-421.4h2.5v3l7-3.5l-7-3.5v3h-2.5V-421.4z"/>
+	</g>
+	<g transform="translate(617.301350276793 -204.45992996585483) rotate(228.4372480137647)">
+		<path class="st0" d="M-362.6-184.6h0.3v-1h-0.3V-184.6z M-327.9-184.6h0.3v3l7-3.5l-7-3.5v3h-0.3V-184.6z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 -330.934 -188.0674)" class="st1 st2 st3">WRIT…</text>
+	</g>
+	<g transform="translate(617.301350276793 -204.45992996585483) rotate(418.2500665400039)">
+		<path class="st0" d="M453.4,115.5h1.3v-1h-1.3V115.5z M454.7,115.5h1.3v3l7-3.5l-7-3.5v3h-1.3V115.5z"/>
+	</g>
+	<g transform="translate(408.9566403175131 -362.48613350420777) rotate(382.92662115881933)">
+		<path class="st0" d="M309.4,337.7h1.5v-1h-1.5V337.7z M310.9,337.7h1.5v3l7-3.5l-7-3.5v3h-1.5V337.7z"/>
+	</g>
+	<g transform="translate(408.9566403175131 -362.48613350420777) rotate(437.72891649980795)">
+		<path class="st0" d="M467.7-31.4l11.5,0v-1l-11.5,0V-31.4z M526.6-31.4l11.5,0v3l7-3.5l-7-3.5l0,3l-11.5,0V-31.4z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 482.2081 -28.9218)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(439.2279520399587 -223.31193625117385) rotate(488.6617252526578)">
+		<path class="st0" d="M282-357.5h0.2v-1H282V-357.5z M302.4-357.5h0.2v3l7-3.5l-7-3.5v3h-0.2V-357.5z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 299.43 -360.9847)" class="st1 st2 st3">O…</text>
+	</g>
+	<g transform="translate(381.3192210629206 -150.93098718305797) rotate(489.2766077639046)">
+		<path class="st0" d="M278.1-360.1l78.8,0v-1l-78.8,0V-360.1z M397.9-360.1h78.8v3l7-3.5l-7-3.5v3h-78.8V-360.1z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 394.9131 -363.6407)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(408.9566403175131 -362.48613350420777) rotate(196.15313515336635)">
+		<path class="st0" d="M-202.7-367h-1v-1h1V-367z M-203.7-367h-1v3l7-3.5l-7-3.5v3h1V-367z"/>
+	</g>
+	<g transform="translate(408.9566403175131 -362.48613350420777) rotate(389.58203398627643)">
+		<path class="st0" d="M346.6,303.3l14.2,0v-1l-14.2,0V303.3z M418.4,303.3h14.2v3l7-3.5l-7-3.5v3h-14.2V303.3z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 363.8306 305.8372)" class="st1 st2 st3">WRITTEN_BY</text>
+	</g>
+	<g transform="translate(381.3192210629206 -150.93098718305797) rotate(497.0893900165954)">
+		<path class="st0" d="M226.8-390.2h1.6v-1h-1.6V-390.2z M269.4-390.2h1.6v3l7-3.5l-7-3.5v3h-1.6V-390.2z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 266.4182 -393.6812)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(408.9566403175131 -362.48613350420777) rotate(488.1935238219996)">
+		<path class="st0" d="M284.9-355.4h5.2v-1h-5.2V-355.4z M337.4-355.4h5.2l0,3l7-3.5l-7-3.5v3h-5.2V-355.4z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 334.4181 -358.934)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(328.750421979854 -260.5385015489236) rotate(462.58753279206)">
+		<path class="st0" d="M413.9-211.4h9.6v-1h-9.6V-211.4z M423.6-211.4l9.6,0v3l7-3.5l-7-3.5v3l-9.6,0V-211.4z"/>
+	</g>
+	<g transform="translate(308.85820285315646 -171.45478111453406) rotate(473.25900059515186)">
+		<path class="st0" d="M368.1-278.4h68.7v-1h-68.7V-278.4z M477.8-278.4h68.7v3l7-3.5l-7-3.5v3h-68.7V-278.4z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 474.7589 -281.8671)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(308.85820285315646 -171.45478111453406) rotate(457.25166005770234)">
+		<path class="st0" d="M432-175h0.1v-1H432V-175z M460.3-175h0.1v3l7-3.5l-7-3.5v3h-0.1V-175z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 457.3305 -178.511)" class="st1 st2 st3">IMP…</text>
+	</g>
+	<g transform="translate(408.9566403175131 -362.48613350420777) rotate(511.8012755700455)">
+		<path class="st0" d="M121.2-426.7h52.3v-1h-52.3V-426.7z M220.9-426.7h52.3v3l7-3.5l-7-3.5v3h-52.3V-426.7z"/>
+		<text pointer-events="none" transform="matrix(-1 0 0 -1 217.9148 -430.2196)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(40.971028207300456 -277.00428778355433) rotate(323.1481655858305)">
+		<path class="st0" d="M-119.5,409.5h1.5v-1h-1.5V409.5z M-118,409.5h1.5v3l7-3.5l-7-3.5v3h-1.5V409.5z"/>
+	</g>
+	<g transform="translate(40.971028207300456 -277.00428778355433) rotate(449.0897910162492)">
+		<path class="st0" d="M452.9-116.5l16.5,0v-1l-16.5,0V-116.5z M516.7-116.5l16.5,0v3l7-3.5l-7-3.5v3l-16.5,0V-116.5z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 472.3791 -114.0179)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(43.39197678870278 -124.62338441564333) rotate(379.86652809391114)">
+		<path class="st0" d="M291,352h156.7v-1H291V352z M527.8,352h156.7v3l7-3.5l-7-3.5v3H527.8V352z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 450.7277 354.5056)" class="st1 st2 st3">OPERATIONALIZES</text>
+	</g>
+	<g transform="translate(40.971028207300456 -277.00428778355433) rotate(492.1812101040986)">
+		<path class="st0" d="M259.5-372.1h2.2v-1h-2.2V-372.1z M261.7-372.1h2.2v3l7-3.5l-7-3.5v3h-2.2V-372.1z"/>
+	</g>
+	<g transform="translate(43.39197678870278 -124.62338441564333) rotate(392.2202018501198)">
+		<path class="st0" d="M360.2,288.6h8.4v-1h-8.4V288.6z M368.6,288.6h8.4v3l7-3.5l-7-3.5v3h-8.4V288.6z"/>
+	</g>
+	<g transform="translate(118.44950259187142 -77.32017033067645) rotate(416.0334329860893)">
+		<path class="st0" d="M448.6,131.7h25.4v-1h-25.4V131.7z M515,131.7h25.4v3l7-3.5l-7-3.5v3H515V131.7z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 477.0798 134.208)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(40.971028207300456 -277.00428778355433) rotate(366.81621859117354)">
+		<path class="st0" d="M205,401.3h26.2v-1H205V401.3z M278.5,401.3h26.2v3l7-3.5l-7-3.5v3h-26.2V401.3z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 234.1731 403.8023)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(40.971028207300456 -277.00428778355433) rotate(403.46871775769694)">
+		<path class="st0" d="M410.1,219.1h1.6v-1h-1.6V219.1z M441.7,219.1h1.6v3l7-3.5l-7-3.5v3h-1.6L441.7,219.1z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 414.7011 221.5942)" class="st1 st2 st3">EXA…</text>
+	</g>
+	<g transform="translate(117.28226034681721 -204.66677578227444) rotate(449.4748491230713)">
+		<path class="st0" d="M452.1-119.3h0.3v-1h-0.3V-119.3z M507.1-119.3h0.3v3l7-3.5l-7-3.5v3h-0.3V-119.3z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 455.3578 -116.8409)" class="st1 st2 st3">OPERATIO…</text>
+	</g>
+	<g transform="translate(117.28226034681721 -204.66677578227444) rotate(414.41367608079094)">
+		<path class="st0" d="M444.8,143.4l7.4,0v-1l-7.4,0V143.4z M452.2,143.4h7.4v3l7-3.5l-7-3.5v3h-7.4V143.4z"/>
+	</g>
+	<g transform="translate(167.79603174105534 -134.07429351738645) rotate(437.645441543821)">
+		<path class="st0" d="M467.7-30.8l42.1,0v-1l-42.1,0V-30.8z M550.8-30.8l42.1,0v3l7-3.5l-7-3.5v3l-42.1,0V-30.8z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 512.8332 -28.2877)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(-87.18189609109393 59.51178202462007) rotate(275.30452842736605)">
+		<path class="st0" d="M-372.7,162.3h12.9v-1h-12.9V162.3z M-302.3,162.3l12.9,0v3l7-3.5l-7-3.5v3l-12.9,0V162.3z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -356.8532 164.8365)" class="st1 st2 st3">WRITTEN_BY</text>
+	</g>
+	<g transform="translate(-87.18189609109393 59.51178202462007) rotate(400.45231106510676)">
+		<path class="st0" d="M398.1,238.7l96.8,0v-1l-96.8,0V238.7z M542.3,238.7l96.8,0v3l7-3.5l-7-3.5v3l-96.8,0V238.7z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 497.9103 241.1627)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(-87.18189609109393 59.51178202462007) rotate(435.9174676370202)">
+		<path class="st0" d="M468.5-17.7h5.1v-1h-5.1V-17.7z M473.5-17.7h5.1v3l7-3.5l-7-3.5v3h-5.1V-17.7z"/>
+	</g>
+	<g transform="translate(-87.18189609109393 59.51178202462007) rotate(271.00963476063777)">
+		<path class="st0" d="M-383.7,131.5h2.2v-1h-2.2V131.5z M-381.5,131.5h2.2v3l7-3.5l-7-3.5v3h-2.2V131.5z"/>
+	</g>
+	<g transform="translate(-87.18189609109393 59.51178202462007) rotate(373.7744046943951)">
+		<path class="st0" d="M252.3,377.5h2.6v-1h-2.6V377.5z M293.8,377.5h2.6v3l7-3.5l-7-3.5v3h-2.6V377.5z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 257.8848 379.9561)" class="st1 st2 st3">EXAMI…</text>
+	</g>
+	<g transform="translate(25.631878029036926 87.16807162818677) rotate(349.05309773948807)">
+		<path class="st0" d="M74.5,434.8h7v-1h-7V434.8z M81.4,434.8h7v3l7-3.5l-7-3.5v3h-7V434.8z"/>
+	</g>
+	<g transform="translate(110.00993023003184 70.84777539224787) rotate(352.99684367407235)">
+		<path class="st0" d="M104.2,430.9h0.3v-1h-0.3V430.9z M132.7,430.9h0.3v3l7-3.5l-7-3.5l0,3h-0.3V430.9z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 107.4962 433.3972)" class="st1 st2 st3">IMP…</text>
+	</g>
+	<g transform="translate(-87.18189609109393 59.51178202462007) rotate(322.6950455279964)">
+		<path class="st0" d="M-122.7,408.3h4.7v-1h-4.7V408.3z M-70.7,408.3h4.7v3l7-3.5l-7-3.5v3h-4.7V408.3z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -115.0113 410.7936)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(15.235305437061932 -18.523214227020645) rotate(369.43597779141743)">
+		<path class="st0" d="M223.1,393h8.7v-1h-8.7V393z M231.8,393h8.7v3l7-3.5l-7-3.5l0,3h-8.7V393z"/>
+	</g>
+	<g transform="translate(103.44079037630614 -3.8639800521411503) rotate(390.3670499878755)">
+		<path class="st0" d="M350.7,299h5.3v-1h-5.3V299z M397,299h5.3v3l7-3.5l-7-3.5v3H397V299z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 359.0139 301.5053)" class="st1 st2 st3">IMPACTS</text>
+	</g>
+	<g transform="translate(-87.18189609109393 59.51178202462007) rotate(313.3748889660644)">
+		<path class="st0" d="M-186.7,377.8h157.8v-1h-157.8V377.8z M18.4,377.8h157.8v3l7-3.5l-7-3.5v3H18.4V377.8z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -25.9247 380.272)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(-87.18189609109393 59.51178202462007) rotate(399.144853040806)">
+		<path class="st0" d="M392.6,246.9h38.2v-1h-38.2V246.9z M478.1,246.9h38.2v3l7-3.5l-7-3.5v3h-38.2V246.9z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 433.7329 249.4431)" class="st1 st2 st3">EXAMINES</text>
+	</g>
+	<g transform="translate(64.56165964447018 183.02779440761503) rotate(329.9651791067147)">
+		<path class="st0" d="M-69.9,424.7h9.6v-1h-9.6V424.7z M-60.2,424.7h9.6v3l7-3.5l-7-3.5v3h-9.6V424.7z"/>
+	</g>
+	<g transform="translate(143.5677126524998 137.34958585234898) rotate(310.1344744320088)">
+		<path class="st0" d="M-207.7,364.8h1.4v-1h-1.4V364.8z M-178.1,364.8h1.4v3l7-3.5l-7-3.5v3h-1.4V364.8z"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 -203.2747 367.2776)" class="st1 st2 st3">IMP…</text>
+	</g>
+</g>
+<g>
+	<g transform="translate(255.77221995989032,392.750840241313)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 99.4973 423.439)" class="st1 st2 st5">John Dong</text>
+	</g>
+	<g transform="translate(175.83303287940987,374.74845876293944)">
+		<circle class="st6" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 108.1204 403.439)" class="st1 st2 st5">Project</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.613 413.439)" class="st1 st2 st5">leaders as</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 102.8323 423.439)" class="st1 st2 st5">boundary</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.8323 433.439)" class="st1 st2 st5">spanners in</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 103.6697 443.439)" class="st1 st2 st5">open s…</text>
+	</g>
+	<g transform="translate(150.95965673448688,262.56132745453783)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 108.1204 408.439)" class="st1 st2 st5">Project</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.4934 418.439)" class="st1 st2 st5">Manager&apos;s</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 102.2854 428.439)" class="st1 st2 st5">Structural</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.0588 438.439)" class="st1 st2 st5">Embedd…</text>
+	</g>
+	<g transform="translate(198.98074266174746,187.89061972774792)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 101.8191 408.439)" class="st1 st2 st5">(Average)</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 107.283 418.439)" class="st1 st2 st5">Degree</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.0046 428.439)" class="st1 st2 st5">Centrality of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 108.1204 438.439)" class="st1 st2 st5">Project</text>
+	</g>
+	<g transform="translate(365.30185486719324,51.00480140772119)">
+		<circle class="st9" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 106.4504 413.439)" class="st1 st2 st5">Ratio of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 94.2288 423.439)" class="st1 st2 st5">Positive User</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 106.7288 433.439)" class="st1 st2 st5">Ratings</text>
+	</g>
+	<g transform="translate(294.13899565437737,10.624330446033312)">
+		<circle class="st10" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.012 418.439)" class="st1 st2 st5">Commercial</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 104.7854 428.439)" class="st1 st2 st5">Success</text>
+	</g>
+	<g transform="translate(100.93125192791695,340.8187383861618)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 101.4431 418.439)" class="st1 st2 st5">Sebastian</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 113.1228 428.439)" class="st1 st2 st5">Götz</text>
+	</g>
+	<g transform="translate(209.9906271795607,58.56609858078741)">
+		<circle class="st9" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 98.3914 418.439)" class="st1 st2 st5">Total No. of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 98.9456 428.439)" class="st1 st2 st5">Downloads</text>
+	</g>
+	<g transform="translate(270.08644855528973,294.50919764258913)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 108.3962 413.4389)" class="st1 st2 st5">Size of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 108.1204 423.4389)" class="st1 st2 st5">Project</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 103.948 433.439)" class="st1 st2 st5">Manager</text>
+	</g>
+	<g transform="translate(272.6349369466988,206.87111845721472)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.3396 413.4389)" class="st1 st2 st5">Number of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 108.1204 423.4389)" class="st1 st2 st5">Project</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 101.448 433.4389)" class="st1 st2 st5">Managers</text>
+	</g>
+	<g transform="translate(539.2811708595823,308.8199950390614)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 94.7781 423.439)" class="st1 st2 st5">Param Singh</text>
+	</g>
+	<g transform="translate(470.4614506696473,351.47795994061835)">
+		<circle class="st6" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 115.0662 403.439)" class="st1 st2 st5">The</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 96.5481 413.439)" class="st1 st2 st5">Small-World</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 99.6853 423.439)" class="st1 st2 st5">Effect: The</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.8298 433.439)" class="st1 st2 st5">Influence of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 103.1252 443.439)" class="st1 st2 st5">Macro-…</text>
+	</g>
+	<g transform="translate(546.7674612033527,135.86174525462798)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.3445 418.439)" class="st1 st2 st5">Network</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 104.7781 428.439)" class="st1 st2 st5">Location</text>
+	</g>
+	<g transform="translate(463.3104236024121,105.9436302562557)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.1492 408.4389)" class="st1 st2 st5">Average</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 107.283 418.4389)" class="st1 st2 st5">Degree</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.0046 428.4389)" class="st1 st2 st5">Centrality of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.3372 438.4389)" class="st1 st2 st5">Develop…</text>
+	</g>
+	<g transform="translate(473.7003288708023,229.66107227195948)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.3445 418.439)" class="st1 st2 st5">Network</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 96.7141 428.439)" class="st1 st2 st5">Path Length</text>
+	</g>
+	<g transform="translate(416.2414976629228,168.31713145392797)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 95.6106 418.439)" class="st1 st2 st5">Inverse Path</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 95.3274 428.439)" class="st1 st2 st5">Length Ratio</text>
+	</g>
+	<g transform="translate(379.3680564965807,283.90602449738174)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 101.1721 423.4389)" class="st1 st2 st5">Clustering</text>
+	</g>
+	<g transform="translate(348.1645427311746,199.7784471861895)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 101.1721 413.439)" class="st1 st2 st5">Clustering</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.1492 423.439)" class="st1 st2 st5">Coefficient</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 112.0095 433.439)" class="st1 st2 st5">Ratio</text>
+	</g>
+	<g transform="translate(211.50687522651575,-256.62015792648447)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 104.6658 413.439)" class="st1 st2 st5">Project&apos;s</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 102.2854 423.439)" class="st1 st2 st5">Structural</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.2781 433.439)" class="st1 st2 st5">Embedde…</text>
+	</g>
+	<g transform="translate(235.277282052015,-166.8047205917404)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 107.283 413.439)" class="st1 st2 st5">Degree</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.0046 423.439)" class="st1 st2 st5">Centrality of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 96.1746 433.439)" class="st1 st2 st5">Focal Proj…</text>
+	</g>
+	<g transform="translate(296.1751411533615,-71.78083858195572)">
+		<circle class="st9" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.3396 418.439)" class="st1 st2 st5">Number of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 95.6204 428.439)" class="st1 st2 st5">Active Users</text>
+	</g>
+	<g transform="translate(655.1914100922876,160.8992679189937)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 98.384 423.439)" class="st1 st2 st5">Gang Peng</text>
+	</g>
+	<g transform="translate(681.0689060746064,91.58304485484172)">
+		<circle class="st6" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.3445 403.439)" class="st1 st2 st5">Network</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.8298 413.439)" class="st1 st2 st5">ties and the</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.0613 423.439)" class="st1 st2 st5">success of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 112.5588 433.439)" class="st1 st2 st5">open</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 108.6746 443.439)" class="st1 st2 st5">source</text>
+	</g>
+	<g transform="translate(560.5843729210351,-65.1285599930726)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.8914 413.439)" class="st1 st2 st5">Developer</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.6179 423.439)" class="st1 st2 st5">Roles in</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.3445 433.439)" class="st1 st2 st5">Network</text>
+	</g>
+	<g transform="translate(476.1701705993535,-40.61527005592655)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.8987 403.4389)" class="st1 st2 st5">Number</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 119.512 413.4389)" class="st1 st2 st5">of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 95.8865 423.4389)" class="st1 st2 st5">Connections</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 108.3962 433.4389)" class="st1 st2 st5">per Tie</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 112.842 443.4389)" class="st1 st2 st5">Type</text>
+	</g>
+	<g transform="translate(681.0852948069416,16.275593424113257)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 111.7312 418.4389)" class="st1 st2 st5">Peter</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 101.8191 428.4389)" class="st1 st2 st5">Woodlock</text>
+	</g>
+	<g transform="translate(618.1587103337761,226.11873701063791)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 103.5769 423.439)" class="st1 st2 st5">Yun Wan</text>
+	</g>
+	<g transform="translate(571.061094521365,37.59162971983898)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 96.719 418.439)" class="st1 st2 st5">Neighboring</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.5613 428.439)" class="st1 st2 st5">Project Ties</text>
+	</g>
+	<g transform="translate(481.19488943881686,33.56984121500709)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.3396 413.439)" class="st1 st2 st5">Number of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 96.719 423.439)" class="st1 st2 st5">Neighboring</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.6204 433.439)" class="st1 st2 st5">Projects</text>
+	</g>
+	<g transform="translate(673.5846099553659,-67.98530143829502)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 101.448 423.439)" class="st1 st2 st5">Qiqi Jiang</text>
+	</g>
+	<g transform="translate(617.301350276793,-204.45992996585483)">
+		<circle class="st6" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 115.0662 403.4389)" class="st1 st2 st5">The</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.6082 413.4389)" class="st1 st2 st5">contingent</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 109.7854 423.4389)" class="st1 st2 st5">role of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 98.948 433.4389)" class="st1 st2 st5">interproject</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.0588 443.4389)" class="st1 st2 st5">conne…</text>
+	</g>
+	<g transform="translate(515.3046193643431,-161.68685799396906)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 102.2854 418.4389)" class="st1 st2 st5">Structural</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 110.8987 428.4389)" class="st1 st2 st5">Holes</text>
+	</g>
+	<g transform="translate(437.39789022148017,-105.53342209195603)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.3445 418.4389)" class="st1 st2 st5">Network</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.8938 428.4389)" class="st1 st2 st5">Constraint</text>
+	</g>
+	<g transform="translate(360.0439036576273,-29.32363100830061)">
+		<circle class="st9" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 99.5022 408.439)" class="st1 st2 st5">Composed</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 110.071 418.439)" class="st1 st2 st5">Metric</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 99.7756 428.439)" class="st1 st2 st5">Containing</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 99.2263 438.439)" class="st1 st2 st5">Downloa…</text>
+	</g>
+	<g transform="translate(546.325469656983,-284.50674207545615)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 107.8372 418.439)" class="st1 st2 st5">Juliana</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 106.4456 428.439)" class="st1 st2 st5">Sutanto</text>
+	</g>
+	<g transform="translate(656.5551301093051,-141.0263639728215)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 98.1106 418.439)" class="st1 st2 st5">Chuan-Hoo</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 115.6204 428.439)" class="st1 st2 st5">Tan</text>
+	</g>
+	<g transform="translate(478.03197846975263,-333.2697398329524)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 110.9011 418.4389)" class="st1 st2 st5">Atreyi</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.8298 428.4389)" class="st1 st2 st5">Kankanhalli</text>
+	</g>
+	<g transform="translate(408.9566403175131,-362.48613350420777)">
+		<circle class="st6" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 98.3914 413.439)" class="st1 st2 st5">Uncovering</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 116.7312 423.439)" class="st1 st2 st5">the</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 98.1106 433.439)" class="st1 st2 st5">relationship</text>
+	</g>
+	<g transform="translate(439.2279520399587,-223.31193625117385)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 106.1697 408.439)" class="st1 st2 st5">Support</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 109.6707 418.4389)" class="st1 st2 st5">User&apos;s</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 101.1672 428.4389)" class="st1 st2 st5">Junctional</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.0588 438.4389)" class="st1 st2 st5">Embedd…</text>
+	</g>
+	<g transform="translate(381.3192210629206,-150.93098718305797)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 93.6624 423.439)" class="st1 st2 st5">Betweenness</text>
+	</g>
+	<g transform="translate(341.79460571247273,-381.9389507121619)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 96.5334 423.439)" class="st1 st2 st5">Bernard Tan</text>
+	</g>
+	<g transform="translate(328.750421979854,-260.5385015489236)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 106.1697 408.4389)" class="st1 st2 st5">Support</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 109.6707 418.4389)" class="st1 st2 st5">User&apos;s</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 102.2854 428.4389)" class="st1 st2 st5">Structural</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.0588 438.4389)" class="st1 st2 st5">Embedd…</text>
+	</g>
+	<g transform="translate(308.85820285315646,-171.45478111453406)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 101.448 418.439)" class="st1 st2 st5">In-Degree</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 102.5637 428.439)" class="st1 st2 st5">Centrality</text>
+	</g>
+	<g transform="translate(100.98521205432743,-321.9853697756012)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.5564 423.439)" class="st1 st2 st5">Neil Gandal</text>
+	</g>
+	<g transform="translate(40.971028207300456,-277.00428778355433)">
+		<circle class="st6" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 110.6253 403.439)" class="st1 st2 st5">Direct</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.8323 413.439)" class="st1 st2 st5">and indirect</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 99.7756 423.439)" class="st1 st2 st5">knowledge</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 101.4529 433.439)" class="st1 st2 st5">spillovers:</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 103.2864 443.439)" class="st1 st2 st5">the &quot;so…</text>
+	</g>
+	<g transform="translate(43.39197678870278,-124.62338441564333)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 110.6253 413.4389)" class="st1 st2 st5">Direct</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 108.1204 423.4389)" class="st1 st2 st5">Project</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 102.0071 433.4389)" class="st1 st2 st5">Spillovers</text>
+	</g>
+	<g transform="translate(-10.287423316727086,-220.43682297055733)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 109.2336 418.439)" class="st1 st2 st5">Chaim</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 99.7854 428.439)" class="st1 st2 st5">Fershtman</text>
+	</g>
+	<g transform="translate(118.44950259187142,-77.32017033067645)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.3372 408.4389)" class="st1 st2 st5">Closeness</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.0046 418.4389)" class="st1 st2 st5">Centrality of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.3396 428.4389)" class="st1 st2 st5">Projects in</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.0588 438.4389)" class="st1 st2 st5">One-Mode</text>
+	</g>
+	<g transform="translate(117.28226034681721,-204.66677578227444)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 107.2854 413.439)" class="st1 st2 st5">Indirect</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 108.1204 423.439)" class="st1 st2 st5">Project</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 102.0071 433.439)" class="st1 st2 st5">Spillovers</text>
+	</g>
+	<g transform="translate(167.79603174105534,-134.07429351738645)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 93.6624 423.439)" class="st1 st2 st5">Betweenness</text>
+	</g>
+	<g transform="translate(-72.8265428029988,-95.1013654794341)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 105.0564 418.4389)" class="st1 st2 st5">Rajdeep</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 107.8445 428.4389)" class="st1 st2 st5">Grewal</text>
+	</g>
+	<g transform="translate(-87.18189609109393,59.51178202462007)">
+		<circle class="st6" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 103.3889 408.439)" class="st1 st2 st5">Location,</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 103.3889 418.439)" class="st1 st2 st5">Location,</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 103.3889 428.439)" class="st1 st2 st5">Location:</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 99.5095 438.439)" class="st1 st2 st5">How Net…</text>
+	</g>
+	<g transform="translate(-67.18787415261428,139.21415252775017)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 99.783 423.439)" class="st1 st2 st5">Gary Lilien</text>
+	</g>
+	<g transform="translate(-85.83692096293163,-16.806333178097262)">
+		<circle class="st4" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 110.6253 418.439)" class="st1 st2 st5">Girish</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 93.9456 428.439)" class="st1 st2 st5">Mallapraga…</text>
+	</g>
+	<g transform="translate(25.631878029036926,87.16807162818677)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 104.6658 413.439)" class="st1 st2 st5">Project&apos;s</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 102.0022 423.439)" class="st1 st2 st5">Positional</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.2781 433.439)" class="st1 st2 st5">Embedde…</text>
+	</g>
+	<g transform="translate(110.00993023003184,70.84777539224787)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.2781 413.439)" class="st1 st2 st5">Eigenvector</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.0046 423.439)" class="st1 st2 st5">Centrality of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 96.1746 433.439)" class="st1 st2 st5">Focal Proj…</text>
+	</g>
+	<g transform="translate(15.235305437061932,-18.523214227020645)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 104.6658 413.439)" class="st1 st2 st5">Project&apos;s</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 101.1672 423.439)" class="st1 st2 st5">Junctional</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.2781 433.439)" class="st1 st2 st5">Embedde…</text>
+	</g>
+	<g transform="translate(103.44079037630614,-3.8639800521411503)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 93.6624 423.439)" class="st1 st2 st5">Betweenness</text>
+	</g>
+	<g transform="translate(64.56165964447018,183.02779440761503)">
+		<circle class="st7" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 108.1204 408.439)" class="st1 st2 st5">Project</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.4934 418.439)" class="st1 st2 st5">Manager&apos;s</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 102.0022 428.439)" class="st1 st2 st5">Positional</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 100.0588 438.439)" class="st1 st2 st5">Embedd…</text>
+	</g>
+	<g transform="translate(143.5677126524998,137.34958585234898)">
+		<circle class="st8" cx="123.7" cy="418.4" r="32.5"/>
+		<text pointer-events="none" transform="matrix(1 0 0 1 101.8191 408.439)" class="st1 st2 st5">(Average)</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.2781 418.439)" class="st1 st2 st5">Eigenvector</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 97.0046 428.439)" class="st1 st2 st5">Centrality of</text>
+		<text pointer-events="none" transform="matrix(1 0 0 1 108.1204 438.439)" class="st1 st2 st5">Project</text>
+	</g>
+</g>
+</svg>
