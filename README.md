@@ -2,7 +2,7 @@
 
 ### Online Appendix
 This repository provides two supplements: 
-1. a **database dump file** which encodes the publications presented in the thesis in form of a graph and
+1. A **database dump file** which encodes the publications presented in the thesis in form of a graph and
 1. a **jupyter notebook script** which calculates various centrality metrics
 
 The database dump file can be imported into `Neo4j`, you have two possible options:
